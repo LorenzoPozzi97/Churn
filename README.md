@@ -1,2 +1,2 @@
 # Churn
-The project involved the use of a Machine Learniing algorithm, ie XGBoost, for the prediction of churn Rate of clients. 
+The project involved the use of a Machine Learniing algorithm, ie XGBoost, for the prediction of churn Rate of clients. The code is combined with graphical visualisations that help the comprehension of the results. Moreover, the final part of the project include a Client Segmetation technique based on a clustering algorithm to understand the caracteristics of those clients that are more likely to churn. 
